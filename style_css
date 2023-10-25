@@ -1,0 +1,92 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: rgb(125, 213, 213);
+    padding: 10px 20px 0px;
+}
+.header {
+    background-color: rgb(78, 184, 184);
+    min-height: 150px
+}
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+}
+.footer {
+    background-color: rgb(21, 144, 144);
+    min-height: 150px;
+}
+
+fieldset {
+    box-shadow: 9px 6px 21px 7px rgba(0,0,0,0.21);
+    font-weight: 100;
+    font-size: smaller;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 1px;
+    border-radius: 10px;
+    border-color: rgb(45, 65, 68);
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table{
+    text-align: center;
+}
+
+table thead th{ 
+    background-color: black;
+    color: white;
+}
+
+table tfoot td{ 
+    background-color: darkgrey;
+}
+
+table tbody tr:nth-child(even) td {
+    background-color: rgba(192, 236, 240, 0.692);
+}
+
+table tbody tr:hover td {
+    background-color: rgb(62, 80, 83)
+}
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+label {
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+    padding-right: 5px;
+}
