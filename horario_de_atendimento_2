@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Utilizar como modelo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <h1 align="center"><fieldset>Horários</fieldset></h1> <br>
+            <h2 align="center">Menu</h2>
+            <ul>
+                <li><a href="pagina_principal.html">Página Principal</a></li> <br>
+                <li><a href="sobre_a_clinica.html">Sobre a Clínica</a></li> <br>
+                <li><a href="horario_de_atendimento.html">Horário de Atendimento</a></li> <br>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+
+            </div>
+    
+            <div class="content">
+                <table width="400" align="center" cellspacing="0" border="1">
+                    <p>Esta tabela de horários foi cuidadosamente elaborada para proporcionar uma visão detalhada e organizada das atividades e compromissos ao longo do dia, permitindo que você gerencie seu tempo com eficiência e alcance todos os seus objetivos de forma produtiva e organizada.</p> <br> <br>
+                    <caption>Tabela de Horários</caption>
+                    <thead>
+                        <tr>
+                            <th>Serviços</th>
+                            <th>Segunda a Sexta</th>
+                            <th>Sábados</th>
+                            <th>Feriados</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Clínica Geral</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>08h - 12h</td>
+                        </tr>
+                        <tr>
+                            <td>Exames Básicos</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>08h - 12h</td>
+                        </tr>
+                        <tr>
+                            <td>Psicologia</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Psiquiatria</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Neurologia</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>08h - 12h</td>
+                        </tr>
+                        <tr>
+                            <td>Pediatria</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>08h - 12h</td>
+                        </tr>
+                        <tr>
+                            <td>Oftalmologia</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Odontologia</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Radiologia</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Dermatologia</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>08h - 12h</td>
+                        </tr>
+                        <tr>
+                            <td>Ortopedia</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>08h - 12h</td>
+                        </tr>
+                        <tr>
+                            <td>Otorrino</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>08h - 12h</td>
+                        </tr>
+                        <tr>
+                            <td>Nutricionista</td>
+                            <td>08h - 19h</td>
+                            <td>08h - 14h</td>
+                            <td>-</td>
+                        </tr>
+                    <tfoot>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </tfoot>
+                    </tbody>
+                </table> <br>
+            </div>
+    
+            <div class="footer">
+                <br>
+                
+                <ul>
+                    <li>Email: clinicamedica@gmail.com</li>
+                    <li>Telefone: (27) 99525-4382</li>
+                    <li>Endereço: Rua Affonso Schwab, 29018-685, Santa Clara, Vitória, ES </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
