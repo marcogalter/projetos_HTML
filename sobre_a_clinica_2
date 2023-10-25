@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Utilizar como modelo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <h1 align="center"><fieldset>Sobre a Clínica</fieldset></h1> <br>
+            <h2 align="center">Menu</h2>
+            <ul>
+                <li><a href="pagina_principal.html">Página Principal</a></li> <br>
+                <li><a href="sobre_a_clinica.html">Sobre a Clínica</a></li> <br>
+                <li><a href="horario_de_atendimento.html">Horário de Atendimento</a></li> <br>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <img src="" alt="">
+            </div>
+    
+            <div class="content">
+                <h1>Sobre nós!</h1>
+                <h2>Apresentação</h2>
+                <p>A Clínica Médica é um centro de saúde localizado em Santa Clara, Vitória, ES, dedicado a proporcionar cuidados médicos de alta qualidade à comunidade. Nossa missão é oferecer atendimento médico acessível e abrangente em um ambiente moderno e acolhedor, nossas instalações são modernas, bem-equipadas e projetadas para proporcionar um ambiente seguro e confortável aos pacientes. Contamos com uma equipe médica altamente qualificada e comprometida em fornecer os melhores cuidados de saúde. Além disso, investimos em tecnologia de ponta para diagnóstico e tratamento.</p>
+
+                <h2>Especialidades Médicas</h2>
+                <p>Na Clínica Médica, oferecemos uma ampla gama de especialidades médicas, incluindo clínica geral, pediatria, ginecologia, cardiologia e muito mais. Nossos médicos são especialistas em suas respectivas áreas e estão prontos para atender às necessidades de saúde dos pacientes.</p>
+
+                <h2>Serviços Oferecidos</h2>
+                <p>Nossos serviços incluem consultas médicas, exames, procedimentos cirúrgicos e acompanhamento integral da saúde do paciente. Nosso compromisso é fornecer uma abordagem abrangente e holística para o cuidado de saúde, garantindo o bem-estar de nossos pacientes.</p>
+                
+                <h2>Atendimento Personalizado</h2>
+                <p>Valorizamos o atendimento personalizado e empático. Nossos médicos dedicam o tempo necessário para ouvir as preocupações dos pacientes e oferecer orientação individualizada.</p>
+
+                <h2>Tecnologia e Inovação</h2>
+                <p>Utilizamos tecnologia de última geração para diagnóstico e tratamento. Mantemos prontuários eletrônicos para facilitar o acompanhamento dos pacientes e garantir uma abordagem de saúde baseada em evidências.</p>
+
+                <h2>Agendamentos e Acesso</h2>
+                <p>Agendar consultas e exames na Clínica Médica é simples e conveniente. Nossos horários de funcionamento atendem às necessidades dos pacientes, e oferecemos atendimento de emergência quando necessário.</p>
+
+                Agradecemos por considerar a Clínica Médica para suas necessidades de saúde. Convidamos você a agendar uma consulta e experimentar a excelência em cuidados de saúde que oferecemos.
+            </div>
+    
+            <div class="footer">
+                <br>
+                <ul>
+                    <li>Email: clinicamedica@gmail.com</li>
+                    <li>Telefone: (27) 99525-4382</li>
+                    <li>Endereço: Rua Affonso Schwab, 29018-685, Santa Clara, Vitória, ES </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
