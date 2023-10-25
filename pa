@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Utilizar como modelo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <h1 align="center"><fieldset>Página Principal</fieldset></h1> <br>
+            <h2 align="center">Menu</h2>
+            <ul>
+                <li><a href="pagina_principal.html">Página Principal</a></li> <br>
+                <li><a href="sobre_a_clinica.html">Sobre a Clínica</a></li> <br>
+                <li><a href="horario_de_atendimento.html">Horário de Atendimento</a></li> <br>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">                
+                <!-- Aqui vai o seu header -->
+            </div>
+    
+            <div class="content">
+                <!-- Aqui vai o seu conteúdo -->
+                <h1>Bem vindos!</h1>
+                <p>Bem-vindo à <strong><i>Clínica Médica</i></strong>, o seu destino para cuidados de saúde excepcionais! Somos mais do que uma clínica, somos o seu parceiro na jornada rumo ao bem-estar total. Aqui oferecemos atendimento médico de alta qualidade em um ambiente moderno e acolhedor, onde você é tratado como parte da nossa família. Nossa clínica é equipada com instalações de última geração e tecnologia avançada para diagnóstico e tratamento. Nossa equipe médica altamente qualificada e dedicada está aqui para atender às suas necessidades de saúde. Oferecemos uma ampla gama de especialidades médicas, desde clínica geral até pediatria, ginecologia, cardiologia e muito mais. Seja qual for a sua preocupação de saúde, estamos preparados para ajudar. No coração da Clínica Médica, está o atendimento personalizado. Nossos médicos dedicam o tempo necessário para ouvir as suas preocupações e oferecer orientação individualizada.</p>
+            </div>
+    
+            <div class="footer">
+                <br>
+                
+                <ul>
+                    <li>Email: clinicamedica@gmail.com</li>
+                    <li>Telefone: (27) 99525-4382</li>
+                    <li>Endereço: Rua Affonso Schwab, 29018-685, Santa Clara, Vitória, ES </li>
+                </ul>
+
+                <!-- Aqui vai o seu rodapé -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>
